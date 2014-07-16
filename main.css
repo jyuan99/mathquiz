@@ -1,6 +1,8 @@
-#quiz{
-	/*display:none;*/
-}
 body{
 	margin-left:50px;
+	font-family: Calibri;
+}
+.correct{
+	background-color: #24399f;
+	color: white;
 }
